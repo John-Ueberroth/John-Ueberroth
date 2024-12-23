@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-intro
-##About Me
-##Technical Skills
-##Key Projects
-##Connect With Me!
+
